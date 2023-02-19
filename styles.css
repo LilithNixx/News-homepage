@@ -159,7 +159,7 @@ ul li a {
     color: var(--Off-white);
 }
 
-.sidebar h3 {
+.sidebar h3:hover {
     color: var(--Soft-orange);
     cursor: pointer;
 }
