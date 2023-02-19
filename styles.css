@@ -159,6 +159,11 @@ ul li a {
     color: var(--Off-white);
 }
 
+.sidebar h3 {
+    color: var(--Soft-orange);
+    cursor: pointer;
+}
+
 .sidebar p {
     margin-bottom: 25px;
     max-width: 300px;
